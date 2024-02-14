@@ -1,0 +1,38 @@
+h1  {
+    font-style: italic;
+    color: gold;
+}
+
+h2  {
+    font-style: oblique;
+    color: olive;
+}
+
+body {
+    font-family: Palatino, sans-serif;
+    background-color: gold;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.profil-box {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+#cv {
+    width: 250px;
+    border-radius: 50%;
+    border: 5px;
+}
+
+#Bali   {
+    width: 200px;
+    margin: 30px;
+    padding: 10px 20px;
+}
